@@ -77,3 +77,38 @@ property: value
 
 The ::first-line Pseudo-element
 It is used to add a special style to the first line of a text.
+
+<!-- ----------------------------------------------------------------------------------------------------------------------- -->
+
+## HTML offers new elements for better structure:
+
+Semantics are calssified into the following three types:
+
+1. General Semantics
+2. Arabic Semantics
+3. Chinese Semantics
+
+General Semantics:
+
+<section>
+<article>
+<header>
+<footer>
+<hggroup>
+<aside>
+<command>
+<details>
+<summary>
+<figure>
+<figcaption>
+<nav>
+<wbr>
+
+Arabic Semantics:
+<bdi>
+<bdo>
+
+Chinese Semantics:
+<ruby>
+<rt>
+<rp>
